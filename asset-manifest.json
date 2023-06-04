@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/lyy/static/css/main.d49285ff.css",
-    "main.js": "/lyy/static/js/main.0e4c0956.js",
+    "main.css": "/lyy/static/css/main.f44c3dd0.css",
+    "main.js": "/lyy/static/js/main.4ea151ea.js",
     "static/media/lyyLogo.png": "/lyy/static/media/lyyLogo.13f4a309c9c042ef42d3.png",
     "index.html": "/lyy/index.html",
-    "main.d49285ff.css.map": "/lyy/static/css/main.d49285ff.css.map",
-    "main.0e4c0956.js.map": "/lyy/static/js/main.0e4c0956.js.map"
+    "main.f44c3dd0.css.map": "/lyy/static/css/main.f44c3dd0.css.map",
+    "main.4ea151ea.js.map": "/lyy/static/js/main.4ea151ea.js.map"
   },
   "entrypoints": [
-    "static/css/main.d49285ff.css",
-    "static/js/main.0e4c0956.js"
+    "static/css/main.f44c3dd0.css",
+    "static/js/main.4ea151ea.js"
   ]
 }
